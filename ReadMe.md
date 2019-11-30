@@ -22,7 +22,17 @@ Chỉ những file nào có đuôi _test.js sẽ được chạy. Cấu hình n�
 
 Nếu bạn muốn thêm một kịch bản chạy thì hãy đổi tên file tuân thủ theo định dạng *_test.js và ngược lại
 
+## autologin plugin
+Xem chi tiết về [plugin autologin](https://codecept.io/plugins)
+Hãy xem code ở branch autologin
+```
+$ git checkout autologin
+```
+
 ## Yêu cầu bài tập
 Hãy bổ xung kiểm thử chèn ảnh vào post
 
 ![Upload photo](images/upload_photo.jpg)
+
+Lời giải xem ở file 
+/scenario/03_uploadphoto_test.js
